@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wenhui Zhu (朱文慧), a Ph.D. student at Kobe University (Japan).
-- 👀 I’m interested in linguistics, swimming, and skiing.
-- 🌱 My current research involves quantitative analysis, focusing on how corporations are influenced by and respond to fintech advancements, particularly emphasizing intangible assets, R&D, and M&A activities.
+- 👀 My current research involves quantitative analysis, focusing on how corporations are influenced by and respond to fintech advancements, particularly emphasizing intangible assets, R&D, and M&A activities.
+- 🌱 I’m interested in linguistics, swimming, and skiing.
 - 📫 The quickest way to contact me is through my email: wencysyu@gmail.com
 
 <!---
